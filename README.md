@@ -11,6 +11,8 @@ Built with Next.js, Supabase, and shadcn/ui
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 
+🔗 **[Live Demo → medistock-opal.vercel.app](https://medistock-opal.vercel.app/)**
+
 </div>
 
 ---
@@ -18,6 +20,21 @@ Built with Next.js, Supabase, and shadcn/ui
 ## 📋 Overview
 
 MediStock is a full-featured, production-ready medicine inventory management system designed for pharmacies, hospitals, and medical stores. It provides real-time inventory tracking, multi-warehouse management, purchase & sales order workflows, and role-based access control — all wrapped in a modern, responsive UI.
+
+---
+
+## 💡 About
+
+MediStock was built to solve the everyday challenges of managing medicine inventory in pharmacies and healthcare facilities. Tracking stock across multiple locations, handling purchase and sales workflows, monitoring expiry dates, and generating reports are all tedious manual tasks — MediStock brings them together in one modern platform.
+
+**Why MediStock?**
+- 🏥 **Purpose-built for healthcare** — Designed around pharmacy and hospital workflows, not generic inventory
+- ⚡ **Real-time everything** — Powered by Supabase's real-time subscriptions for instant updates
+- 🔒 **Enterprise-grade security** — Row-level security, role-based access, and secure authentication out of the box
+- 🎨 **Modern, intuitive UI** — Built with shadcn/ui and Framer Motion for a premium user experience
+- 📱 **Use anywhere** — Fully responsive, works on desktop, tablet, and mobile
+
+> 🌐 **Try it live:** [medistock-opal.vercel.app](https://medistock-opal.vercel.app/)
 
 ---
 
