@@ -73,7 +73,7 @@ MediStock is a full-featured, production-ready medicine inventory management sys
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medistock.git
+git clone https://github.com/Priyanshu-Builds/medistock.git
 cd medistock
 ```
 
